@@ -1,6 +1,6 @@
 # Medical Chatbot with LangChain and Pinecone
 
-This project implements a medical chatbot that can answer questions about diabetes by retrieving information from PDF documents. The chatbot uses LangChain for document processing, Pinecone for vector storage and retrieval, and Hugging Face for embeddings and language models.
+This project implements a medical chatbot that can answer questions about diabetes by retrieving information from PDF documents. The chatbot uses LangChain for document processing, Pinecone for vector storage and retrieval, and Hugging Face for embeddings and language models. The project main code can be viewed from the `research` folder, `trails.ipynb`
 
 ## Features
 
