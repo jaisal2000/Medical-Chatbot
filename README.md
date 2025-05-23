@@ -23,4 +23,4 @@ Before running this project, ensure you have the following:
 
 ## Screenshots of the APP
 
-![alt text](image.png)
+![alt text](screen.png)
