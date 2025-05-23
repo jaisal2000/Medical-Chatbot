@@ -21,3 +21,6 @@ Before running this project, ensure you have the following:
    - `HUGGINGFACEHUB_API_TOKEN` - For Hugging Face model access
 3. PDF documents in the `data/` directory
 
+## Screenshots of the APP
+
+![alt text](image.png)
